@@ -15,7 +15,7 @@
   <img align="left" alt="Nay Corrêa's Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;">
 </a>
 
-<a href="https://github.com/nayaracorrea" rel="nofollow">
+<a href="https://github.com/naycorrea" rel="nofollow">
   <img align="left" alt="Nayara Corrêa's GitHub" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" style="max-width:100%;">
 </a> 
 
