@@ -49,7 +49,7 @@
   ![Nayara Corrêa's github stats](https://github-readme-stats.vercel.app/api?username=nayaracorrea&show_icons=true&theme=dracula)
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaracorrea&layout=compact)](https://github.com/nayaracorrea/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naycorrea&layout=compact)](https://github.com/naycorrea/github-readme-stats)
   
  
   
