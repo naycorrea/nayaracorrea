@@ -52,9 +52,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayaracorrea&layout=compact)](https://github.com/nayaracorrea/github-readme-stats)
 
-  ![Snake animation](https://github.com/naycorrea/naycorrea/blob/output/github-contribution-grid-snake.svg)
-
-
 
   <picture>
   <source
@@ -71,10 +68,6 @@
   />
 </picture>
 
-Pull a github user's contribution graph.
-Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
-
-Generate a [gif](https://github.com/naycorrea/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/naycorrea/snk/raw/output/github-contribution-grid-snake.svg) image.
 
   
  
