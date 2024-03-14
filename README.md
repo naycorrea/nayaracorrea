@@ -1,6 +1,6 @@
 <h2> Hi, I'm Nayara Corrêa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<i>Systems analysis student at the UNOPAR</i><br>
+<i>Systems Analyst at UNOPAR</i><br>
 <i>Front-End Developer At Avanade Brazil</i><br>
 
 <a href="[https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/](https://www.linkedin.com/in/nayaracorreaflorentino/)" rel="nofollow">
