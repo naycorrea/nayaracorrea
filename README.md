@@ -46,7 +46,7 @@
   <br>
   <p><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats</p>
   
-  ![Nayara Corrêa's github stats](https://github-readme-stats.vercel.app/api?username=nayaracorrea&show_icons=true&theme=dracula)
+  ![Nayara Corrêa's github stats](https://github-readme-stats.vercel.app/api?username=naycorrea&show_icons=true&theme=dracula)
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naycorrea&layout=compact)](https://github.com/naycorrea/github-readme-stats)
